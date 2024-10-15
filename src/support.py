@@ -5,7 +5,7 @@ import numpy as np
 from tqdm import tqdm
 from time import sleep
 
-def scrape_atrezzo_vazquez(numero_paginas=100):
+def extraer_info_atrezzo_vazquez(numero_paginas):
     """
     Extrae información de productos de la página web Atrezzo Vázquez.
 
